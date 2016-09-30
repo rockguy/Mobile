@@ -1,0 +1,16 @@
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\App3.dll
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\App3.pdb
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.MainPage.xaml.g.cs
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.App.xaml.g.cs
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.dll
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.pdb
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.dll.mdb
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\App3.dll.mdb
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\obj\Debug\App3.dll.mdb
+c:\users\vinnik\documents\visual studio 2015\Projects\App3\App3\App3\bin\Debug\App3.dll.mdb
