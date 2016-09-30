@@ -1,3 +1,7 @@
+App3.Droid.Activity1, App3.Droid;md59eecafe8280a26988b2a376da1e93fe7.Activity1
+App3.Droid.Activity1, App3.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59eecafe8280a26988b2a376da1e93fe7.Activity1
+App3.Droid.Activity1;md59eecafe8280a26988b2a376da1e93fe7.Activity1
+app3.droid.Activity1;md59eecafe8280a26988b2a376da1e93fe7.Activity1
 App3.Droid.MainActivity, App3.Droid;md59eecafe8280a26988b2a376da1e93fe7.MainActivity
 App3.Droid.MainActivity, App3.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59eecafe8280a26988b2a376da1e93fe7.MainActivity
 App3.Droid.MainActivity;md59eecafe8280a26988b2a376da1e93fe7.MainActivity
